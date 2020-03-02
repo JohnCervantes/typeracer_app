@@ -1,3 +1,7 @@
+# A typing game developed using React framework. This game is inspired by https://play.typeracer.com/ 
+# Demo: https://www.youtube.com/watch?v=3t8GBhts9qA&feature=youtu.be
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
