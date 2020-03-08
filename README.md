@@ -1,5 +1,6 @@
-# A typing game developed using React framework. This game is inspired by https://play.typeracer.com/ 
-# Demo: https://www.youtube.com/watch?v=3t8GBhts9qA&feature=youtu.be
+# A typing game web application built with React and Material-UI.
+# This game is inspired by one of my favegorite games caled TypeRacer. Visit their website! https://play.typeracer.com/ 
+# Demo: https://youtu.be/IAaOXpPPfyw
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
